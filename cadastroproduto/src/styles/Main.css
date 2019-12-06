@@ -1,0 +1,23 @@
+button{
+    color: #fff;
+}
+.bar{
+    background: #ccc;
+    display: flex;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+li {
+    margin-right: 10vw;
+}
+.photos img{
+    width: 20vw;
+}
+#foods img{
+    display: flex;
+    border: solid 2px black;
+}
